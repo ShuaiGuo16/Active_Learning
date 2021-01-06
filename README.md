@@ -9,4 +9,4 @@ In the notebook, we will walk through a case study, where an active learning str
 
 You can find the companion blog here:
 
-[Reducing Model Training Cost With Active Learning]()
+[Reducing Model Training Cost With Active Learning](https://towardsdatascience.com/reducing-model-training-cost-with-active-learning-255b40a2aa98)
